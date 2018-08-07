@@ -12,13 +12,13 @@
 3. 物件導向入門: Class, property, method.
 4. UIKit 簡介
 5. UIViewController 簡介
-6. 製作第一款 app
+6. **製作第一款 app**
 7. AutoLayout
 8. 網路資料讀取(URLSession, URLRequest)
-9. 製作第二款 app
+9. **製作第二款 app**
 10. UITableView 簡介
 11. UINavigation Controller
-12. 製作第三款 app
+12. **製作第三款 app**
 
 ### 適合對象
 1. 具備電腦基礎操作能力，具國中英數基礎
@@ -26,7 +26,7 @@
 
 
 ### 開發環境
-Mac OS X，需自備 Mac（必要）
+Mac OS X，**需自備 Mac（必要）**
 
 ### 講師簡介
 臺灣科技大學 碩士
@@ -34,4 +34,4 @@ Mac OS X，需自備 Mac（必要）
 經歷：
 1. Chroma ATE Inc, Taiwan - Power Engineer
 2. AppMaster Co.,Ltd - iOS Developer
-3. AppWorks School - iOS Instructor
+3. [AppWorks School](https://appworks.tw/school/) - iOS Instructor

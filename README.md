@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## iOS 基礎開發班
 
-You can use the [editor on GitHub](https://github.com/Wuchiwei/ntu-ios/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ [Jekyll](https://jekyllrb.com/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 簡介
 
-### Markdown
+此為 [台灣大學資訊工程學系資訊系統訓練班](https://train.csie.ntu.edu.tw/train/) 所開設的 `iOS 基礎開發班` 課程網頁。這個課程會教授基礎的 iOS app 開發原理，30 小時的課程規劃實作 **3 款 iOS app**，透過這 3 款 app 帶出基本的 iOS 開發與程式設計相關概念。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 課程大綱
 
-```markdown
-Syntax highlighted code block
+1. Xcode 開發環境簡介
+2. Storyboard 入門
+3. 物件導向入門: Class, property, method.
+4. UIKit 簡介
+5. UIViewController 簡介
+6. 製作第一款 app
+7. AutoLayout
+8. 網路資料讀取(URLSession, URLRequest)
+9. 製作第二款 app
+10. UITableView 簡介
+11. UINavigation Controller
+12. 製作第三款 app
 
-# Header 1
-## Header 2
-### Header 3
+### 適合對象
+1. 具備電腦基礎操作能力，具國中英數基礎
+2. 對 iOS 手機程式開發有興趣者
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### 開發環境
+Mac OS X，需自備 Mac（必要）
 
-**Bold** and _Italic_ and `Code` text
+### 講師簡介
+臺灣科技大學 碩士
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Wuchiwei/ntu-ios/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+經歷：
+1. Chroma ATE Inc, Taiwan - Power Engineer
+2. AppMaster Co.,Ltd - iOS Developer
+3. AppWorks School - iOS Instructor

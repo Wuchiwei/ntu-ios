@@ -1,6 +1,5 @@
 ## iOS 基礎開發班
-
- [Jekyll](https://jekyllrb.com/)
+---
 
 ### 簡介
 

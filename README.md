@@ -3,21 +3,21 @@
 
 ### 簡介
 
-此為 [台灣大學資訊工程學系資訊系統訓練班](https://train.csie.ntu.edu.tw/train/) 所開設的 `iOS 基礎開發班` 課程網頁。這個課程會教授基礎的 iOS app 開發原理，30 小時的課程規劃實作 **3 款 iOS app**，透過這 3 款 app 帶出基本的 iOS 開發與程式設計相關概念。
+此為 [台灣大學資訊工程學系資訊系統訓練班](https://train.csie.ntu.edu.tw/train/) 所開設的 `iOS 基礎開發班` 課程網頁。這個課程會教授基礎的 iOS app 開發原理，30 小時的課程規劃實作 **3 款 iOS app**，透過這 3 款 app 帶出基本的 iOS 開發與程式設計相關概念。**此課程專為台大系統資訊班特別設計，適合無經驗者參加。**
 
 ### 課程大綱
 
 1. Xcode 開發環境簡介
 2. Storyboard 入門
-3. 物件導向入門: Class, property, method.
-4. UIKit 簡介
+3. UIKit 簡介
+4. 物件導向入門: Class, property, method.
 5. UIViewController 簡介
-6. **製作第一款 app**
-7. AutoLayout
-8. 網路資料讀取(URLSession, URLRequest)
-9. **製作第二款 app**
-10. UITableView 簡介
-11. UINavigation Controller
+6. AutoLayout
+7. **製作第一款 app**
+8. UITableView 簡介
+9. UINavigation Controller
+10. **製作第二款 app**
+11. 網路資料讀取(URLSession, URLRequest)
 12. **製作第三款 app**
 
 ### 適合對象

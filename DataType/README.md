@@ -1,6 +1,6 @@
 # Data Type
 
-在 Swift 裡面，有幾個原生的資料型態 primitive data type，他是用來代表一些已經存在於人類世界的資料型態。分別是 `Int`, `Double`, `Float`, `Boolean`, `String`, 以及一個比較特殊的名詞 `Optional`。
+在 Swift 裡面，有幾個原生的資料型態 primitive data type，他是用來代表一些已經存在於人類世界的資料型態。分別是 `Int`, `Double`, `Float`, `Boolean`, `String`。
 
 * Int 用來代表現實世界中的整數，泛指 0, 1, 2, 3 與 -1, -2, -3 這一類型的數值。
 * Double 用來代表現實世界中的實數，泛指 1.2, 3.141, -1.5 等，但要注意的是，`整數也是實數的一部分，但實數不一定是整數`。

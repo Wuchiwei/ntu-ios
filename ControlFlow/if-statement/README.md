@@ -10,7 +10,7 @@
 
 <img src="https://github.com/Wuchiwei/ntu-ios/blob/master/ControlFlow/if-statement/images/if.png" alt="image" width="200"/>
 
-<img src="https://github.com/Wuchiwei/ntu-ios/blob/master/ControlFlow/if-statement/images/if-else.png" alt="image" width="200"/>
+<img src="https://github.com/Wuchiwei/ntu-ios/blob/master/ControlFlow/if-statement/images/if-else.png" alt="image" width="600"/>
 
-<img src="https://github.com/Wuchiwei/ntu-ios/blob/master/ControlFlow/if-statement/images/if-else-if.png" alt="image" width="200"/>
+<img src="https://github.com/Wuchiwei/ntu-ios/blob/master/ControlFlow/if-statement/images/if-else-if.png" alt="image" width="600"/>
 

@@ -8,6 +8,8 @@
 
 這樣子的邏輯要怎麼在 Swift 中實現了，就要靠 if-statement
 
+<img src="https://github.com/Wuchiwei/ntu-ios/blob/master/ControlFlow/if-statement/images/if.png" alt="image" width="200"/>
+
 ![image](https://github.com/Wuchiwei/ntu-ios/blob/master/ControlFlow/if-statement/images/if.png)
 
 ![image](https://github.com/Wuchiwei/ntu-ios/blob/master/ControlFlow/if-statement/images/if-else.png)

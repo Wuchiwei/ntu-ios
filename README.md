@@ -35,3 +35,4 @@ Mac OS X，**需自備 Mac（必要）**
 1. Chroma ATE Inc, Taiwan - Power Engineer
 2. AppMaster Co.,Ltd - iOS Developer
 3. [AppWorks School](https://appworks.tw/school/) - iOS Instructor
+4. 2018 iPlayground 講者

@@ -1,5 +1,6 @@
 # If Statement
 
+### Single if statement
 日常生活中我們很常根據條件，做出判斷。比如說：
 
 * 如果下雨，我就不出門。
@@ -12,9 +13,9 @@
 
 <img src="https://github.com/Wuchiwei/ntu-ios/blob/master/ControlFlow/if-statement/images/if.png" alt="image" width="200"/>
 
-* Condition: 只能放 Boolean 的值，也就是 true 或 false。
+* Condition: **只能放 Boolean 的值** ，也就是 `true` 或 `false`。
 
-* Statements: 可以寫任何的 code， **但這一段 code 只有在上述的 Condition 為 True 的時候，才會被執行** 。
+* Statements: 可以寫任何的 code， **但這一段 code 只有在上述的 Condition 為 true 的時候，才會被執行** 。
 
 請看以下的例子：
 
@@ -67,8 +68,10 @@ if number {
 ```
 
 Xcode 會告訴你有錯誤，因為 if 後面的 statement 只能接 `Boolean`，上面的 number 是 `Int`，不能放在 if statement 後面。
+
 ---
 
+### if-else statement
 讓我們再來看另外一個現實生活中的情境：
 
 * 假設 Peter 要出席，我就出席，否則我就不去了。
@@ -83,6 +86,7 @@ var isPeterGoing = true
 if isPeterGoing {
 
     print("I will go, too.")
+
 } else {
 
     print("I will not go."
@@ -100,8 +104,9 @@ I will go, too.
 ```
 I will not go.
 ```
-
 ---
+
+### if-else-if statement
 
 讓我們來看 if-else 的最後一個情境：
 
@@ -140,4 +145,5 @@ if lakerWinScore > 10 {
 我賺 100!
 ```
 
-本頁的圖都源自於 [Apple Swift Book](https://docs.swift.org/swift-book/ReferenceManual/Statements.html)
+---
+註：本頁的圖都源自於 [Apple Swift Book](https://docs.swift.org/swift-book/ReferenceManual/Statements.html)

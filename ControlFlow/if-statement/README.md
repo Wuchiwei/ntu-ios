@@ -44,7 +44,7 @@ I don't want to go outside.
 After if statement
 ```
 
-如果我們把 `var isRaining: Bool = true` 改成 `var isRaining: Bool = false
+如果我們把 `var isRaining: Bool = true` 改成 `var isRaining: Bool = false`
 
 console 就會看到：
 

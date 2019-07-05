@@ -133,6 +133,8 @@ if lakerWinScore > 10 {
 }
 ```
 
+[Comparison Operator](https://github.com/Wuchiwei/ntu-ios/tree/master/Operator/Comparison%20Operators)
+
 此時 console 會 print 出：
 
 ```

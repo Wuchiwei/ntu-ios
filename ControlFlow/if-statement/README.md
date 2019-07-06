@@ -152,11 +152,11 @@ if lakerWinScore > 10 {
 
 # 練習
 
-1. 請宣告兩個變數 `numberOfStudents` 與 `numberOfPencils`，並給予任意的正整數。如果 pencil 數量比 student 多，請輸出 "鉛筆比較多！"；反之請輸出 "學生比較多！"
+1. 請宣告兩個變數 `numberOfStudents` 與 `numberOfPencils`，並給予任意的正整數。如果 pencil 數量比 student 多，請輸出 "鉛筆比較多！"；反之請輸出 "學生比較多！"
 
-2. 請宣告兩個變數 `money` 與 `price`，並給予任意的正整數。如果 money 比 price 多，請輸出 "買起來！！"；反之請輸出 "餘額不足！"
+1. 請宣告兩個變數 `money` 與 `price`，並給予任意的正整數。如果 money 比 price 多，請輸出 "買起來！！"；反之請輸出 "餘額不足！"
 
-3. 請利用 if statement 輸出較大的數
+2. 請利用 if statement 輸出較大的數
 
 ```swift
 let a = 30 
@@ -181,7 +181,7 @@ var random = Int.random(in: 0...Int.max)
    * 公元年分除以100可整除但除以400不可整除，為平年。
    * 公元年分除以400可整除，為閏年。
 
-請寫出判斷式，判斷 2014 是否為閏年
+    請寫出判斷式，判斷 2014 是否為閏年
 
 7. 請透過 if 相關的語法，找出最小的數
 ```swift

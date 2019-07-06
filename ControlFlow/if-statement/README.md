@@ -149,3 +149,46 @@ if lakerWinScore > 10 {
 
 ---
 註：本頁的圖都源自於 [Apple Swift Book](https://docs.swift.org/swift-book/ReferenceManual/Statements.html)
+
+# 練習
+
+1. 請宣告兩個變數 `numberOfStudents` 與 `numberOfPencils`，並給予任意的正整數。如果 pencil 數量比 student 多，請輸出 "鉛筆比較多！"；反之請輸出 "學生比較多！"
+
+2. 請宣告兩個變數 `money` 與 `price`，並給予任意的正整數。如果 money 比 price 多，請輸出 "買起來！！"；反之請輸出 "餘額不足！"
+
+3. 請利用 if statement 輸出較大的數
+
+```swift
+let a = 30 
+
+let b = 20
+```
+
+4. 給予任意數，如果是偶數，請輸出 "這是偶數"；反之，請輸出 "這是奇數"！
+
+Hint: 可以透過 Remainder Operator `%` 來達成
+
+```swift
+//產生亂數的方法
+var random = Int.random(in: 0...Int.max)
+```
+
+5. 如果 age 在 18~25 歲，請在 console 輸出 `開放入場`；反之，請輸出 `禁止入場`
+
+6. 閏年規則如下：
+   * 公元年分除以4不可整除，為平年。
+   * 公元年分除以4可整除但除以100不可整除，為閏年。
+   * 公元年分除以100可整除但除以400不可整除，為平年。
+   * 公元年分除以400可整除，為閏年。
+
+請寫出判斷式，判斷 2014 是否為閏年
+
+7. 請透過 if 相關的語法，找出最小的數
+```swift
+var a = 15
+var b = 20
+var c = 17
+var d = 50
+```
+
+8. 請判斷 210 是否為 10 與 25 的公倍數

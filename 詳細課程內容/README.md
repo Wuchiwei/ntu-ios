@@ -18,6 +18,6 @@ Project - [GuessNumber](https://github.com/Wuchiwei/GuessNumber)
 3. [Function](https://github.com/Wuchiwei/ntu-ios/tree/master/Function)
 4. [Optional](https://github.com/Wuchiwei/ntu-ios/tree/master/DataType/Optional)
 
-https://docs.google.com/presentation/d/1r-pvxR4Vt4p1X6FkWVL8HzkdUpcZgFCDDIzZjxOyh1o/edit#slide=id.g44d83e7d3d_0_45
+[投影片連結](https://docs.google.com/presentation/d/1r-pvxR4Vt4p1X6FkWVL8HzkdUpcZgFCDDIzZjxOyh1o/edit?usp=sharing)
 
-Project - 
+Project - [Random Number Filter](https://github.com/Wuchiwei/RandomNumberFilter)

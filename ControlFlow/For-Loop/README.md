@@ -50,6 +50,7 @@ for (animalName, legCount) in numberOfLegs {
 **Range** : 以 `...` 來表示，有兩種選項可以運用：
 1. 0...3 代表 0, 1, 2, 3
 2. 0..<3 代表 0, 1, 2 (不包含 upper bounds)
+3. Lower bounds 一定要比 Upper bounds 大
 
 ```swift
 for index in 1...5 {
@@ -155,3 +156,21 @@ Console will output:
 2
 0
 ```
+
+
+# 練習
+1. 請 print 出 "Hello World!" 10 次
+2. 請 print 出小於任意正整數 N，可以被完整開平開的數。
+ex: 如果 N = 10，那 console 應該要印出 1, 4, 9
+    如果 N = 50，那 console 應該要印出 1, 4, 9, 16, 25, 36, 49
+3. `var numbers = [10, 20, 30, 50, 60]`, 請 print 出 array 中是 3 的倍數的 element。
+4. `let numberOfLegs = ["spider": 8, "ant": 6, "cat": 4]`，請依序每一對 `(key, value)` print 出來
+5. 請利用 stride print 出以下結果：
+   ```
+   10
+   8
+   6
+   4
+   2
+   0
+   ```

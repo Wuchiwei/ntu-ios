@@ -16,5 +16,8 @@ Project - [GuessNumber](https://github.com/Wuchiwei/GuessNumber)
 1. [Array, Dictionary](https://github.com/Wuchiwei/ntu-ios/tree/master/DataType/Collection)
 2. [For-Loop](https://github.com/Wuchiwei/ntu-ios/tree/master/ControlFlow/For-Loop)
 3. [Function](https://github.com/Wuchiwei/ntu-ios/tree/master/Function)
+4. [Optional](https://github.com/Wuchiwei/ntu-ios/tree/master/DataType/Optional)
+
+https://docs.google.com/presentation/d/1r-pvxR4Vt4p1X6FkWVL8HzkdUpcZgFCDDIzZjxOyh1o/edit#slide=id.g44d83e7d3d_0_45
 
 Project - 

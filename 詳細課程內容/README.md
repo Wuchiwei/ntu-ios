@@ -6,8 +6,15 @@
     * 改變使用這介面：IBOutlet
 3. Swift 語法
     * [var V.S. let](https://github.com/Wuchiwei/ntu-ios/tree/master/Variable)
-    * [Data Type: String, Int, Double, Bool](https://github.com/Wuchiwei/ntu-ios/tree/master/DataType)
+    * [Primitive Data Type: String, Int, Double, Bool](https://github.com/Wuchiwei/ntu-ios/tree/master/DataType/Primitive-Data-Type)
     * [Comparison Operator](https://github.com/Wuchiwei/ntu-ios/tree/master/Operator/Comparison%20Operators)
     * [if - else](https://github.com/Wuchiwei/ntu-ios/tree/master/ControlFlow/if-statement)
 
 Project - [GuessNumber](https://github.com/Wuchiwei/GuessNumber)
+
+### Session2
+1. [Array, Dictionary](https://github.com/Wuchiwei/ntu-ios/tree/master/DataType/Collection)
+2. [For-Loop](https://github.com/Wuchiwei/ntu-ios/tree/master/ControlFlow/For-Loop)
+3. [Function](https://github.com/Wuchiwei/ntu-ios/tree/master/Function)
+
+Project - 

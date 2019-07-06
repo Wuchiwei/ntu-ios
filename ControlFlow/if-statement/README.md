@@ -154,9 +154,9 @@ if lakerWinScore > 10 {
 
 1. 請宣告兩個變數 `numberOfStudents` 與 `numberOfPencils`，並給予任意的正整數。如果 pencil 數量比 student 多，請輸出 "鉛筆比較多！"；反之請輸出 "學生比較多！"
 
-1. 請宣告兩個變數 `money` 與 `price`，並給予任意的正整數。如果 money 比 price 多，請輸出 "買起來！！"；反之請輸出 "餘額不足！"
+2. 請宣告兩個變數 `money` 與 `price`，並給予任意的正整數。如果 money 比 price 多，請輸出 "買起來！！"；反之請輸出 "餘額不足！"
 
-2. 請利用 if statement 輸出較大的數
+3. 請利用 if statement 輸出較大的數
 
 ```swift
 let a = 30 
@@ -166,7 +166,7 @@ let b = 20
 
 4. 給予任意數，如果是偶數，請輸出 "這是偶數"；反之，請輸出 "這是奇數"！
 
-Hint: 可以透過 Remainder Operator `%` 來達成
+    Hint: 可以透過 Remainder Operator `%` 來達成
 
 ```swift
 //產生亂數的方法

@@ -127,3 +127,63 @@ if (color == "Red") || (color == "Blue") {
 ```
 可以與背景順利搭配
 ```
+
+### Logic NOT: !
+
+
+```
+let a: Bool = true
+
+let b = !a //b will be false
+```
+
+# 練習
+
+1. 請寫下 Console 會出現哪一段文字
+
+```swift
+var isRaining = true
+
+if !isRaining {
+
+    print("沒雨了，我要出門運動！")
+
+} else {
+
+    print("下雨了，我只好在家耍廢！")
+
+}
+```
+
+2. 請寫下 Console 會出現哪一段文字 
+
+```swift
+var name = "Luke"
+
+var money = 1000
+
+if (name == "Luke") && (money > 2000) {
+
+    print("你可以買雙鞋！")
+
+} else {
+
+    print("抱歉，你不可以買雙鞋！")
+}
+
+```
+
+3. 請寫下 Console 會出現哪一段文字 
+
+```swift
+var age = 10
+
+if (age < 0) || (age > 123) {
+
+    print("年齡超出合理範圍")
+
+} else {
+
+    print("合理的年齡")
+}
+```

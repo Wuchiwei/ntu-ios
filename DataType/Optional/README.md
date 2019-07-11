@@ -236,3 +236,30 @@ No name.
 ```
 
 如果 `nickName` 有值，則這個值會被存進 `name` 裡面；如果 `nickName` 沒有值，則 "No name" 這個 String 會被存進 `name` 這個變數裡面。
+
+# 練習
+
+1. 
+有一個 String "123"，我們嘗試將它轉成 Int data type，請利用 `guard let` 與 `if let` 檢查這個轉型是否成功
+```swift
+var stringToConvert = "123"
+
+var number = Int(stringToConvert)
+
+//Verify number is nil or not
+
+```
+
+2. 如果 `numberOfVolunteer` 不是 nil，請將人數 print 出來；如果是 nil，請 print 沒有自願者。（請分別用 if let 與 guard let 練習）
+
+3. 有一個訂票網站，透過 `numberOfTickets` 來記錄使用者訂購的票卷數目，如果 numberOfTickets 是 nil，請給他一個預設值 1。
+
+    Hint: 請使用 `??` Operator 完成這一題
+
+4. 請問下列程式碼編譯時會發生什麼事？
+
+```swift
+var friends: Int? = nil
+
+print(friends!)
+```

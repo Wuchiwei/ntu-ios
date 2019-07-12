@@ -2,6 +2,8 @@
 
 Swift 裡 Collection Type 有三種，Array, Dictionary, Set。
 
+<img src="https://github.com/Wuchiwei/ntu-ios/blob/master/DataType/Collection/images/collection.png" alt="image" width="500"/>
+
 # Array
 
 如果我們要算兩個數的平均，我們應該會這樣寫：

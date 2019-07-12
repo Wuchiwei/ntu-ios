@@ -159,13 +159,13 @@ Console will output:
 
 
 # 練習
-1. 請 print 出 "Hello World!" 10 次
+1. 請 print 出 `Hello World` 10 次
 2. 請 print 出小於任意正整數 N，可以被完整開平開的數。
 ex: 如果 N = 10，那 console 應該要印出 1, 4, 9
     如果 N = 50，那 console 應該要印出 1, 4, 9, 16, 25, 36, 49
-1. `var numbers = [10, 20, 30, 50, 60]`, 請 print 出 array 中是 3 的倍數的 element。
-2. `let numberOfLegs = ["spider": 8, "ant": 6, "cat": 4]`，請依序每一對 `(key, value)` print 出來
-3. 請利用 stride print 出以下結果：
+3. `var numbers = [10, 20, 30, 50, 60]`, 請 print 出 array 中是 3 的倍數的 element。
+4. `let numberOfLegs = ["spider": 8, "ant": 6, "cat": 4]`，請依序每一對 `(key, value)` print 出來
+5. 請利用 stride print 出以下結果：
    ```
    10
    8
@@ -174,3 +174,9 @@ ex: 如果 N = 10，那 console 應該要印出 1, 4, 9
    2
    0
    ```
+6. 給予 Array `[1, 2, 3, 1, 2, 10, 100]`，請找出裡面不重複的數，儲存在一個 `uniqueNumbers` 的 array 裡面。
+7. 請透過 for-in 語法，產生下列的 Array: `[1, 1, 2, 3, 5, 8, 13]`
+
+    Hint: 此為費伯納西數列，規格是後一數是前兩數的和 ex: 8 = 3 + 5
+
+8. `[1, 2, 3, 1, 2, 10, 100]` 請透過 for-in loop 找到 10 所在的 index 並把它 print 出來

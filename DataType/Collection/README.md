@@ -134,7 +134,7 @@ names.remove(at: 2)
 //After this, array will be ["Sylvia", "Andy", "Henry", "Alex"]
 ```
 
-### 練習
+### Array 練習
 現在我們有一個通訊錄，裡面儲存了朋友的名字:
 
 `var contacts = ["Michael", "Julie", "Steven"]`
@@ -144,4 +144,98 @@ names.remove(at: 2)
 3. 請幫我更新 Steven 為 Steven Choa
 4. 請幫我把 Ian 搬到 index 為 0 的位置
 
+# Dictionary
 
+Dictionary 是另外一種可以儲存多筆資料的資料型態；與 Array 不同的是，Dictionary 沒有次序性，它的資料是以 `key-value` 的方式儲存與讀取。
+
+1. Create a Dictionary
+
+```swift
+var contacts: [String: Int] = [
+
+    "Luke": 0987654321, 
+    "ntu": 27273737
+]
+
+let emptyDictionary: [String: String] = [:]
+```
+
+其中寫在 `:` 前面的稱之為 **key**，寫在 `:` 後面的稱之為 **value**。
+
+2. Add key value in Dictionary 新增一筆資料
+
+```swift
+var contacts: [String: Int] = [
+
+    "Luke": 0987654321, 
+    "ntu": 27273737
+]
+
+contact["iOS"] = 1234567
+
+```
+2. Get value in Dictionary 讀取一筆資料
+
+```swift
+var contacts: [String: Int] = [
+
+    "Luke": 0987654321, 
+    "ntu": 27273737
+]
+
+print(contacts["Luke"])
+```
+
+Console will output: 
+
+```
+0987654321
+```
+
+3. Update value in Dictionary 更新一筆資料
+
+```swift
+var contacts: [String: Int] = [
+
+    "Luke": 0987654321, 
+    "ntu": 27273737
+]
+
+contacts["Luke"] = 34567
+
+print(contacts["Luke"])
+```
+
+Console will output: 
+
+```
+34567
+```
+
+4. Remove a value in Dictionary 移除一筆資料
+
+```swift
+var contacts: [String: Int] = [
+
+    "Luke": 0987654321, 
+    "ntu": 27273737
+]
+
+contacts["Luke"] = nil //這樣就移除 key 為 "Luke" 的這筆資料
+```
+
+### Dictionary 練習
+
+我們要建立一個機場全名與縮寫的對照表：
+
+```swift
+var airports = [
+    "YYZ": "Toronto Pearson", 
+    "DUB": "Dublin"
+]
+```
+
+1. 請讀取 "DUB" 所對應到的全名
+2. 新增一筆資料："London" 機場的縮寫為 "LHR"
+3. 修改 "LHR" 的 value 為 "London Heathrow"
+4. 移除 "YYZ" 這筆對照資料

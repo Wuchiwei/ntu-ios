@@ -196,7 +196,7 @@ init(name: String, weight: Double, height: Double) {
 ```
 
 # Struct
-Struct 與 Class 在 Initializer, Property 與 Method，無論是語法，定義，用處，用法，都是完全相同的。
+**Struct 與 Class 在 Initializer, Property 與 Method，無論是語法，定義，用處，用法，都是完全相同的。**
 
 
 # Struct 與 Class 不同的地方
@@ -225,6 +225,4 @@ let car = BMW(doors: 4)
 
 2. 透過 Class 產生的 Instance 是 Reference Type；透過 Struct 產生出來的是 Value Type.
 
-詳細的說明可以參考我的 Medium 文章
-
-[Reference Type and Value Type](https://medium.com/appworks-school/oop-reference-type-and-value-type-in-memory-b74d4df4bb06)
+    詳細的說明可以參考我的 Medium 文章 - [Reference Type and Value Type](https://medium.com/appworks-school/oop-reference-type-and-value-type-in-memory-b74d4df4bb06)

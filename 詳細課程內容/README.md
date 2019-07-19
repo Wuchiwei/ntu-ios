@@ -19,3 +19,10 @@ Project - [GuessNumber](https://github.com/Wuchiwei/GuessNumber)
 4. [Optional](https://github.com/Wuchiwei/ntu-ios/tree/master/DataType/Optional)
 
 Project - [Random Number Filter](https://github.com/Wuchiwei/RandomNumberFilter)
+
+### Session 3
+1. [Frame & Bounds](https://github.com/Wuchiwei/ntu-ios/tree/master/Frame%20%26%20Bounds)
+
+Project - [iOSFrameBoundsPlayer](https://github.com/Wuchiwei/iOSFrameBoundsPlayer)
+
+2. [Class & Struct](https://github.com/Wuchiwei/ntu-ios/tree/master/Class%20%26%20Struct)

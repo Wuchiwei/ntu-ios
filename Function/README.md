@@ -87,6 +87,7 @@ outputSlash(with: "After if statement")
 
 ```swift
 func sayHello(to name: String) -> String {
+    
     return "Hello, \(name)"
 }
 
@@ -104,6 +105,7 @@ Hello, iOS
 
 ```swift
 func sayHello(to name: String = "world") -> String {
+    
     return "Hello, \(name)"
 }
 
@@ -121,9 +123,13 @@ Hello, world
 
 ```swift
 func greet(person: String, alreadyGreeted: Bool) -> String {
+
     if alreadyGreeted {
+    
         return greetAgain(person: person)
+    
     } else {
+    
         return greet(person: person)
     }
 }
@@ -136,8 +142,10 @@ print(greet(person: "Tim", alreadyGreeted: true))
 
 ```swift
 func greet(person: String) {
+    
     print("Hello, \(person)!")
 }
+
 greet(person: "Dave")
 // Prints "Hello, Dave!"
 ```

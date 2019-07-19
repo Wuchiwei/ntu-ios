@@ -107,6 +107,7 @@ let end = 3
 
 for tickMark in start..<end {
     
+    print(tickMark)
 }
 ```
 

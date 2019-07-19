@@ -152,25 +152,25 @@ NTU-iOS-Class. This is my name.
 
 ```swift
 class People {
-
+    
     let name: String
-
+    
     var weight: Double
-
+    
     var height: Double
-
-    init(name: String, width: Double, height: Double) {
+    
+    init(name: String, weight: Double, height: Double) {
         
         self.name = name
-        self.width = width
+        self.weight = weight
         self.height = height
     }
 }
 
-let luke = People(name: "Luke", width: 10.0, height: 10.0)
+let luke = People(name: "Luke", weight: 10.0, height: 10.0)
 
 print(luke.name)
-print(luke.width)
+print(luke.weight)
 print(luke.height)
 ```
 
@@ -186,10 +186,10 @@ Initializer 有一個規則，就是 Initializer method 執行結束之後，每
 ```swift
 //This is wrong
 
-init(name: String, width: Double, height: Double) {
+init(name: String, weight: Double, height: Double) {
         
         self.name = name
-        self.width = width
+        self.weight = weight
         //self.height = height
         //This will cause error occur.
 }

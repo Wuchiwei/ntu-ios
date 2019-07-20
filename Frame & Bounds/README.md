@@ -15,6 +15,7 @@ View 透過 `addSubView` method，可以把其他 view 加到自身的畫面上�
 
 1. 如果 BlueView 的 **SuperView** 是 `BlackView`，則 BlueView 的位置，會在 `case 1` 的地方。
 2. 如果 BlueView 的 **SuperView** 是 `RedView`，則 BlueView 的位置，會在 `case 2` 的地方。
+3. 但這兩個 case 裡，**BlueView 的 Frame 都沒有任何的改變**；但是被放置在不同的 SuperView 裡，就會出現畫面中不一樣的地方。
 
 <img src="https://github.com/Wuchiwei/ntu-ios/blob/master/Frame%20%26%20Bounds/images/frame_in_different_superview.png" alt="frame_in_different_superview" width="600"/>
 

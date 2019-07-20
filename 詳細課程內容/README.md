@@ -28,4 +28,8 @@
 
     Project - [iOSFrameBoundsPlayer](https://github.com/Wuchiwei/iOSFrameBoundsPlayer)
 
+* [Auto Layout](https://github.com/Wuchiwei/ntu-ios/tree/master/AutoLayout)
+
 * [Class & Struct](https://github.com/Wuchiwei/ntu-ios/tree/master/Class%20%26%20Struct)
+
+Project - [UITableViewPractice](https://github.com/Wuchiwei/UITableViewPractice)

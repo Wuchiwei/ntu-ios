@@ -160,6 +160,9 @@ Console will output:
 
 
 # 練習
+
+[Answer](https://github.com/Wuchiwei/ntu-ios/tree/master/ControlFlow/For-Loop/Answer)
+
 1. 請 print 出 `Hello World` 10 次
 2. 請 print 出小於任意正整數 N，可以被完整開平開的數。
 ex: 如果 N = 10，那 console 應該要印出 1, 4, 9

@@ -24,5 +24,37 @@
 
 [Reference: Apple Auto Layout Guide](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/AnatomyofaConstraint.html#//apple_ref/doc/uid/TP40010853-CH9-SW1)
 
+### Safe Area
 
+每個機型，上下需要留白的大小都不相同，還會有 UINavigationBar 跟 UITabBar 高度不同的問題，所以 Apple 提供了 Safe Area 這個元素，搭配 Auto Layout 讓系統自動幫我們處理這個問題。
 
+# 練習
+1. 建立一個 View 距離螢幕:
+   * Leading 30 pts
+   * Safe Area Top 100 pts
+   * Trailing 30 pts
+   * Height 100 pts 
+
+2. 建立一個 View :
+   * Center X 在畫面正中間
+   * Center Y 在畫面正中間
+   * Width 100 pts
+   * Height 100 pts 
+
+3. 建立一個 View 距離螢幕:
+   * Top 在螢幕的垂直正中間
+   * Bottom 在畫面最下方（非 Safe Area）
+   * Leading 100 pts
+   * Width 100 pts
+
+4. 建立一個 View 距離螢幕:
+   * Width 是螢幕 Width 的 1/2
+   * Height 是螢幕 Height 的 1/2
+   * Leading 100 pts
+   * Top 100 pts
+
+5. 建立一個 View 距離螢幕:
+   * Width 是螢幕 Width 的 1/2
+   * 寬高比 4:3
+   * Leading 在螢幕 1/4 的地方
+   * Trailing 與螢幕的 Trailing 貼齊

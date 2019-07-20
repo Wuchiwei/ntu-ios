@@ -20,7 +20,7 @@
 
 可以做關聯的 Attribute 組合：
 
-<img src="https://github.com/Wuchiwei/ntu-ios/blob/master/AutoLayout/images/auto_layout_formula.png" alt="auto_layout_attribute" width=600/>
+<img src="https://github.com/Wuchiwei/ntu-ios/blob/master/AutoLayout/images/auto_layout_attribute.png" alt="auto_layout_attribute" width=600/>
 
 [Reference: Apple Auto Layout Guide](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/AnatomyofaConstraint.html#//apple_ref/doc/uid/TP40010853-CH9-SW1)
 

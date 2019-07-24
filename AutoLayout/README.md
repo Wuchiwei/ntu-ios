@@ -30,7 +30,9 @@
 
 <img src="https://github.com/Wuchiwei/ntu-ios/blob/master/AutoLayout/images/safe_area.png" alt="safe_area" width=600/>
 
-# 練習
+# 練習 
+[影片詳解](https://youtu.be/Nqt1lAGpJAo)
+
 1. 建立一個 View 距離螢幕:
    * Leading 30 pts
    * Safe Area Top 100 pts

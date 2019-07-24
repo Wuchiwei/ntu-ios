@@ -59,4 +59,4 @@
    * Width 是螢幕 Width 的 1/2
    * 寬高比 4:3
    * Leading 在螢幕 1/4 的地方
-   * Trailing 與螢幕的 Trailing 貼齊
+   * Bottom 與螢幕的 Bottom 貼齊

@@ -35,4 +35,4 @@
 
 Project - [UITableViewPractice](https://github.com/Wuchiwei/UITableViewPractice)
 
-Project - [UICollectionViewPractice](https://github.com/Wuchiwei/ntu-ios/tree/master/UICollectionView)
+Project - [UICollectionViewPractice](https://github.com/Wuchiwei/UICollectionViewPractice)

@@ -32,4 +32,7 @@
 
 * [Class & Struct](https://github.com/Wuchiwei/ntu-ios/tree/master/Class%20%26%20Struct)
 
+
 Project - [UITableViewPractice](https://github.com/Wuchiwei/UITableViewPractice)
+
+Project - [UICollectionViewPractice](https://github.com/Wuchiwei/ntu-ios/tree/master/UICollectionView)

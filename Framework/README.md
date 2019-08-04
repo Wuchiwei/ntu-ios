@@ -59,5 +59,9 @@ Sample Data
     ]
 ]
 
-
 ```
+
+
+### URLRequest and URLSession
+
+https://docs.google.com/document/d/1omeY_I36LUvJRuuM0OYruQU5UTknCW6AsuILp9EdZW4/edit?usp=sharing
